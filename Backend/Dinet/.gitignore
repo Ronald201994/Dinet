@@ -1,0 +1,19 @@
+# .NET Core
+# Archivos de compilación y logs
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# Paquetes de dependencias de NuGet
+*.nuget.props
+*.nuget.targets
+*.lock.json
+!*.csproj
+!Directory.Build.props
+!Directory.Build.targets
+
+# Restauración de dependencias
+.NETCore/
+.DS_Store

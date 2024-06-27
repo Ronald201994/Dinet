@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E38C44-16F5-4FE8-9955-7F6D44CE7899}|Dinet.Api\\Dinet.Api.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E38C44-16F5-4FE8-9955-7F6D44CE7899}|Dinet.Api\\Dinet.Api.csproj|solutionrelative:dinet.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E38C44-16F5-4FE8-9955-7F6D44CE7899}|Dinet.Api\\Dinet.Api.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E38C44-16F5-4FE8-9955-7F6D44CE7899}|Dinet.Api\\Dinet.Api.csproj|solutionrelative:dinet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\contracts\\persistence\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\contracts\\persistence\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\contracts\\persistence\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\contracts\\persistence\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112CEAE2-636F-46B4-B663-65B9E9F55BF3}|Dinet.Domain\\Dinet.Domain.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112CEAE2-636F-46B4-B663-65B9E9F55BF3}|Dinet.Domain\\Dinet.Domain.csproj|solutionrelative:dinet.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112CEAE2-636F-46B4-B663-65B9E9F55BF3}|Dinet.Domain\\Dinet.Domain.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.domain\\dinet.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{112CEAE2-636F-46B4-B663-65B9E9F55BF3}|Dinet.Domain\\Dinet.Domain.csproj|solutionrelative:dinet.domain\\dinet.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\dinet.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\dinet.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.infrastructure\\persistence\\dinetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|solutionrelative:dinet.infrastructure\\persistence\\dinetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\features\\products\\queries\\getproductlist\\getproductlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\features\\products\\queries\\getproductlist\\getproductlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|solutionrelative:dinet.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E38C44-16F5-4FE8-9955-7F6D44CE7899}|Dinet.Api\\Dinet.Api.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4E38C44-16F5-4FE8-9955-7F6D44CE7899}|Dinet.Api\\Dinet.Api.csproj|solutionrelative:dinet.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|solutionrelative:dinet.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|solutionrelative:dinet.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\features\\products\\queries\\getproductlist\\getproductlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\features\\products\\queries\\getproductlist\\getproductlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0997FC-63BA-46A6-88E8-8553C332DC21}|Dinet.Application\\Dinet.Application.csproj|solutionrelative:dinet.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112CEAE2-636F-46B4-B663-65B9E9F55BF3}|Dinet.Domain\\Dinet.Domain.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.domain\\basedomainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112CEAE2-636F-46B4-B663-65B9E9F55BF3}|Dinet.Domain\\Dinet.Domain.csproj|solutionrelative:dinet.domain\\basedomainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|c:\\ronald\\practica\\dinet\\backend\\dinet\\dinet.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1DA9E-A887-42C4-A9FC-0443AD015A4F}|Dinet.Infrastructure\\Dinet.Infrastructure.csproj|solutionrelative:dinet.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dinet.Api\\Program.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Api\\Program.cs",
+              "RelativeToolTip": "Dinet.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:24:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dinet.Application",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Dinet.Application.csproj",
+              "RelativeDocumentMoniker": "Dinet.Application\\Dinet.Application.csproj",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Dinet.Application.csproj",
+              "RelativeToolTip": "Dinet.Application\\Dinet.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T16:01:24.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dinet.Domain.csproj",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Domain\\Dinet.Domain.csproj",
+              "RelativeDocumentMoniker": "Dinet.Domain\\Dinet.Domain.csproj",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Domain\\Dinet.Domain.csproj",
+              "RelativeToolTip": "Dinet.Domain\\Dinet.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T15:21:49.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Dinet.Domain\\Product.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Domain\\Product.cs",
+              "RelativeToolTip": "Dinet.Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:30:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Contracts\\Persistence\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Contracts\\Persistence\\IBaseRepository.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Contracts\\Persistence\\IBaseRepository.cs",
+              "RelativeToolTip": "Dinet.Application\\Contracts\\Persistence\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:33:53.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Contracts\\Persistence\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Contracts\\Persistence\\IProductRepository.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Contracts\\Persistence\\IProductRepository.cs",
+              "RelativeToolTip": "Dinet.Application\\Contracts\\Persistence\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:34:09.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeToolTip": "Dinet.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:34:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Dinet.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Dinet.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:31:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Dinet.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:47.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DinetContext.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Persistence\\DinetContext.cs",
+              "RelativeDocumentMoniker": "Dinet.Infrastructure\\Persistence\\DinetContext.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Persistence\\DinetContext.cs",
+              "RelativeToolTip": "Dinet.Infrastructure\\Persistence\\DinetContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:30:09.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Dinet.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Dinet.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:42:19.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQueryHandler.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQueryHandler.cs",
+              "RelativeToolTip": "Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:15:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Dinet.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "Dinet.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:57:51.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Dinet.Api\\appsettings.json",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Api\\appsettings.json",
+              "RelativeToolTip": "Dinet.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T16:23:51.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Dinet.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Dinet.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:38:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Dinet.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:01:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProductListQuery.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQuery.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQuery.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQuery.cs",
+              "RelativeToolTip": "Dinet.Application\\Features\\Products\\Queries\\GetProductList\\GetProductListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:15:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "Dinet.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:06:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dinet.Application\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Application\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Dinet.Application\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:17:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseDomainModel.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Domain\\BaseDomainModel.cs",
+              "RelativeDocumentMoniker": "Dinet.Domain\\BaseDomainModel.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Domain\\BaseDomainModel.cs",
+              "RelativeToolTip": "Dinet.Domain\\BaseDomainModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:31:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Dinet.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Ronald\\Practica\\Dinet\\Backend\\Dinet\\Dinet.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Dinet.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:42:29.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
