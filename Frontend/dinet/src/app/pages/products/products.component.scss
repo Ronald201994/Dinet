@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .mat-card {
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .mat-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 16px;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+  }
+  
+  .mat-table {
+    width: 100%;
+  }
+  
+  .mat-header-cell, .mat-cell {
+    padding: 16px;
+  }
+  
+  .mat-header-cell {
+    font-weight: bold;
+  }
+  
+  .add-button {
+    margin-left: auto;
+  }
+  
